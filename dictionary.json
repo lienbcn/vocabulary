@@ -1,0 +1,2340 @@
+[
+	{
+		"type": "naamwoorden",
+		"english": "the time",
+		"dutch": "de tijd",
+		"frequency": 1,
+		"pronunciation": "tEid"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the year",
+		"dutch": "het jaar",
+		"frequency": 2,
+		"pronunciation": "iAr"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the people",
+		"dutch": "de mensen",
+		"frequency": 3,
+		"pronunciation": "mÉnsan"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the way",
+		"dutch": "de weg",
+		"frequency": 4,
+		"pronunciation": "vEg"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the day",
+		"dutch": "de dag",
+		"frequency": 5,
+		"pronunciation": "dAg"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the man",
+		"dutch": "de man",
+		"frequency": 6,
+		"pronunciation": "man"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the thing",
+		"dutch": "het ding",
+		"frequency": 7,
+		"pronunciation": "diN"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the woman",
+		"dutch": "de vrouw",
+		"frequency": 8,
+		"pronunciation": "fJAu"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the life",
+		"dutch": "het leven",
+		"frequency": 9,
+		"pronunciation": "lévan"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the child",
+		"dutch": "het kind",
+		"frequency": 10,
+		"pronunciation": "kint"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the world",
+		"dutch": "de wereld",
+		"frequency": 11,
+		"pronunciation": "wégalt"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the school",
+		"dutch": "de school",
+		"frequency": 12,
+		"pronunciation": "sJol"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the state",
+		"dutch": "de staat",
+		"frequency": 13,
+		"pronunciation": "stAAt"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the family",
+		"dutch": "het gezin",
+		"frequency": 14,
+		"pronunciation": "Jesín"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the student",
+		"dutch": "de student",
+		"frequency": 15,
+		"pronunciation": "studÉnt"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the group",
+		"dutch": "de groep",
+		"frequency": 16,
+		"pronunciation": "Jup"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the country",
+		"dutch": "het land",
+		"frequency": 17,
+		"pronunciation": "lAnd"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the problem",
+		"dutch": "het probleem",
+		"frequency": 18,
+		"pronunciation": "poblém"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the hand",
+		"dutch": "de kant",
+		"frequency": 19,
+		"pronunciation": "kAnt"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the part",
+		"dutch": "het deel",
+		"frequency": 20,
+		"pronunciation": "dil"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the place",
+		"dutch": "de plaats",
+		"frequency": 21,
+		"pronunciation": "plAts"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the week",
+		"dutch": "de week",
+		"frequency": 22,
+		"pronunciation": "vek"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the company",
+		"dutch": "het bedrijf",
+		"frequency": 23,
+		"pronunciation": "badgÉif"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the system",
+		"dutch": "het systeem",
+		"frequency": 24,
+		"pronunciation": "sistém"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the program",
+		"dutch": "het programma",
+		"frequency": 25,
+		"pronunciation": "poJÁmA"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the question",
+		"dutch": "de vraag",
+		"frequency": 26,
+		"pronunciation": "vgAJ"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the work",
+		"dutch": "het werk",
+		"frequency": 27,
+		"pronunciation": "vErk"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the government",
+		"dutch": "de overheid",
+		"frequency": 28,
+		"pronunciation": "ovarhÉit"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the number",
+		"dutch": "het nummer",
+		"frequency": 29,
+		"pronunciation": "numa"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the night",
+		"dutch": "de nacht",
+		"frequency": 30,
+		"pronunciation": "nAJt"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the point",
+		"dutch": "het punt",
+		"frequency": 31,
+		"pronunciation": "pUnt"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the home",
+		"dutch": "het huis",
+		"frequency": 32,
+		"pronunciation": "hAus"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the water",
+		"dutch": "het water",
+		"frequency": 33,
+		"pronunciation": "vÁta"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the room",
+		"dutch": "de kamer",
+		"frequency": 34,
+		"pronunciation": "kÁma"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the mother",
+		"dutch": "de moeder",
+		"frequency": 35,
+		"pronunciation": "múda"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the area",
+		"dutch": "het gebied",
+		"frequency": 36,
+		"pronunciation": "hebít"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the money",
+		"dutch": "het geld",
+		"frequency": 37,
+		"pronunciation": "hElt"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the story",
+		"dutch": "het verhaal",
+		"frequency": 38,
+		"pronunciation": "varhÁl"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the fact",
+		"dutch": "het feit",
+		"frequency": 39,
+		"pronunciation": "fEit"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the month",
+		"dutch": "de maand",
+		"frequency": 40,
+		"pronunciation": "mAnd"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the party (politics)",
+		"dutch": "de partij",
+		"frequency": 41,
+		"pronunciation": "partÉi"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the study",
+		"dutch": "de studie",
+		"frequency": 42,
+		"pronunciation": "stúdi"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the book",
+		"dutch": "het boek",
+		"frequency": 43,
+		"pronunciation": "buk"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the eye",
+		"dutch": "het oog",
+		"frequency": 44,
+		"pronunciation": "oJ"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the job",
+		"dutch": "de baan",
+		"frequency": 45,
+		"pronunciation": "bAn"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the word",
+		"dutch": "het woord",
+		"frequency": 46,
+		"pronunciation": "vort"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the business",
+		"dutch": "het bedrijf",
+		"frequency": 47,
+		"pronunciation": "badgÉif"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the issue",
+		"dutch": "de kwestie",
+		"frequency": 48,
+		"pronunciation": "kuésti"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the side",
+		"dutch": "de hand",
+		"frequency": 49,
+		"pronunciation": "hAnt"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the kind",
+		"dutch": "het soort",
+		"frequency": 50,
+		"pronunciation": "sort"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the head",
+		"dutch": "het hoofd",
+		"frequency": 51,
+		"pronunciation": "hofd"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the house",
+		"dutch": "het huis",
+		"frequency": 52,
+		"pronunciation": "hAus"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the service",
+		"dutch": "de dienst",
+		"frequency": 53,
+		"pronunciation": "dinst"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the friend",
+		"dutch": "de vriend",
+		"frequency": 54,
+		"pronunciation": "vgint"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the father",
+		"dutch": "de vader",
+		"frequency": 55,
+		"pronunciation": "fÁda"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the power",
+		"dutch": "de stroom",
+		"frequency": 56,
+		"pronunciation": "stgom"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the hour",
+		"dutch": "het uur",
+		"frequency": 57,
+		"pronunciation": "Ua"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the game",
+		"dutch": "het spel",
+		"frequency": 58,
+		"pronunciation": "spEl"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the line",
+		"dutch": "de lijn",
+		"frequency": 59,
+		"pronunciation": "lEin"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the end",
+		"dutch": "het einde",
+		"frequency": 60,
+		"pronunciation": "Éinde"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the member",
+		"dutch": "het lid",
+		"frequency": 61,
+		"pronunciation": "lit"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the law",
+		"dutch": "de wet",
+		"frequency": 62,
+		"pronunciation": "vEt"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the car",
+		"dutch": "de auto",
+		"frequency": 63,
+		"pronunciation": "Áuto"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the city",
+		"dutch": "de stad",
+		"frequency": 64,
+		"pronunciation": "stAt"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the community",
+		"dutch": "de gemeenschap",
+		"frequency": 65,
+		"pronunciation": "haménsJAp"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the name",
+		"dutch": "naam",
+		"frequency": 66,
+		"pronunciation": "nAm"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the president",
+		"dutch": "de president",
+		"frequency": 67,
+		"pronunciation": "presidént"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the team",
+		"dutch": "het team",
+		"frequency": 68,
+		"pronunciation": "tim"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the minute",
+		"dutch": "de minuut",
+		"frequency": 69,
+		"pronunciation": "mínut"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the idea",
+		"dutch": "het idee",
+		"frequency": 70,
+		"pronunciation": "idé"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the kid",
+		"dutch": "het kind",
+		"frequency": 71,
+		"pronunciation": "kint"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the body",
+		"dutch": "het lichaam",
+		"frequency": 72,
+		"pronunciation": "líJAm"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the information",
+		"dutch": "de informatie",
+		"frequency": 73,
+		"pronunciation": "informÁti"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the back",
+		"dutch": "de rug",
+		"frequency": 74,
+		"pronunciation": "guJ"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the parent",
+		"dutch": "de ouder",
+		"frequency": 75,
+		"pronunciation": "Óuda"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the face",
+		"dutch": "het gezicht",
+		"frequency": 76,
+		"pronunciation": "hezíJt"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the others",
+		"dutch": "de anderen",
+		"frequency": 77,
+		"pronunciation": "Ándagan"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the level",
+		"dutch": "het niveau",
+		"frequency": 78,
+		"pronunciation": "nivó"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the office",
+		"dutch": "het kantoor",
+		"frequency": 79,
+		"pronunciation": "kantór"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the door",
+		"dutch": "de deur",
+		"frequency": 80,
+		"pronunciation": "dUr"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the health",
+		"dutch": "de gezondheid",
+		"frequency": 81,
+		"pronunciation": "hazónhEid"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the person",
+		"dutch": "de persoon",
+		"frequency": 82,
+		"pronunciation": "pEgsón"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the art",
+		"dutch": "de kunst",
+		"frequency": 83,
+		"pronunciation": "kunst"
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the war",
+		"dutch": "de oorlog",
+		"frequency": 84,
+		"pronunciation": ""
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the history",
+		"dutch": "geschiedenis",
+		"frequency": 85,
+		"pronunciation": ""
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the party",
+		"dutch": "de partij",
+		"frequency": 86,
+		"pronunciation": ""
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the result",
+		"dutch": "het resultaat",
+		"frequency": 87,
+		"pronunciation": ""
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the change",
+		"dutch": "de verandering",
+		"frequency": 88,
+		"pronunciation": ""
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the morning",
+		"dutch": "de ochtend",
+		"frequency": 89,
+		"pronunciation": ""
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the reason",
+		"dutch": "de reden",
+		"frequency": 90,
+		"pronunciation": ""
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the research",
+		"dutch": "het onderzoek",
+		"frequency": 91,
+		"pronunciation": ""
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the girl",
+		"dutch": "het meisje",
+		"frequency": 92,
+		"pronunciation": ""
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the guy",
+		"dutch": "de man",
+		"frequency": 93,
+		"pronunciation": ""
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the moment",
+		"dutch": "momenteel",
+		"frequency": 94,
+		"pronunciation": ""
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the air",
+		"dutch": "de lucht",
+		"frequency": 95,
+		"pronunciation": ""
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the teacher",
+		"dutch": "de leraar",
+		"frequency": 96,
+		"pronunciation": ""
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the force",
+		"dutch": "de kracht",
+		"frequency": 97,
+		"pronunciation": ""
+	},
+	{
+		"type": "naamwoorden",
+		"english": "the education",
+		"dutch": "het onderwijs",
+		"frequency": 98,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "have",
+		"dutch": "hebben",
+		"frequency": 1,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "do",
+		"dutch": "doen",
+		"frequency": 2,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "say",
+		"dutch": "zeggen",
+		"frequency": 3,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "go",
+		"dutch": "gaan",
+		"frequency": 4,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "get",
+		"dutch": "krijgen",
+		"frequency": 5,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "make",
+		"dutch": "maken",
+		"frequency": 6,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "know",
+		"dutch": "weten",
+		"frequency": 7,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "think",
+		"dutch": "denken",
+		"frequency": 8,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "take",
+		"dutch": "nemen",
+		"frequency": 9,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "see",
+		"dutch": "zien",
+		"frequency": 10,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "come",
+		"dutch": "komen",
+		"frequency": 11,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "want",
+		"dutch": "willen",
+		"frequency": 12,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "use",
+		"dutch": "gebruiken",
+		"frequency": 13,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "find",
+		"dutch": "vinden",
+		"frequency": 14,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "give",
+		"dutch": "geven",
+		"frequency": 15,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "tell",
+		"dutch": "vertellen",
+		"frequency": 16,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "work",
+		"dutch": "werken",
+		"frequency": 17,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "call",
+		"dutch": "bellen",
+		"frequency": 18,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "try",
+		"dutch": "proberen",
+		"frequency": 19,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "ask",
+		"dutch": "vragen",
+		"frequency": 20,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "feel",
+		"dutch": "voelen",
+		"frequency": 21,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "become",
+		"dutch": "worden",
+		"frequency": 22,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "leave",
+		"dutch": "vertrekken",
+		"frequency": 23,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "put",
+		"dutch": "zetten",
+		"frequency": 24,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "mean",
+		"dutch": "betekenen",
+		"frequency": 25,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "keep",
+		"dutch": "houden",
+		"frequency": 26,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "let",
+		"dutch": "laten",
+		"frequency": 27,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "begin",
+		"dutch": "beginnen",
+		"frequency": 28,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "seem",
+		"dutch": "lijken",
+		"frequency": 29,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "help",
+		"dutch": "helpen",
+		"frequency": 30,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "show",
+		"dutch": "tonen",
+		"frequency": 31,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "hear",
+		"dutch": "horen",
+		"frequency": 32,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "play",
+		"dutch": "spelen",
+		"frequency": 33,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "run",
+		"dutch": "lopen",
+		"frequency": 34,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "move",
+		"dutch": "verplaatsen",
+		"frequency": 35,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "live",
+		"dutch": "wonen",
+		"frequency": 36,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "believe",
+		"dutch": "geloven",
+		"frequency": 37,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "bring",
+		"dutch": "brengen",
+		"frequency": 38,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "happen",
+		"dutch": "gebeuren",
+		"frequency": 39,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "write",
+		"dutch": "schrijven",
+		"frequency": 40,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "sit",
+		"dutch": "zitten",
+		"frequency": 41,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "stand",
+		"dutch": "staan",
+		"frequency": 42,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "lose",
+		"dutch": "verliezen",
+		"frequency": 43,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "pay",
+		"dutch": "betalen",
+		"frequency": 44,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "meet",
+		"dutch": "ontmoeten",
+		"frequency": 45,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "include",
+		"dutch": "omvatten",
+		"frequency": 46,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "continue",
+		"dutch": "voortzetten",
+		"frequency": 47,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "set",
+		"dutch": "zetten",
+		"frequency": 48,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "learn",
+		"dutch": "leren",
+		"frequency": 49,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "change",
+		"dutch": "veranderen",
+		"frequency": 50,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "lead",
+		"dutch": "leiden",
+		"frequency": 51,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "understand",
+		"dutch": "begrijpen",
+		"frequency": 52,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "watch",
+		"dutch": "bekijken",
+		"frequency": 53,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "follow",
+		"dutch": "volgen",
+		"frequency": 54,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "stop",
+		"dutch": "stoppen",
+		"frequency": 55,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "create",
+		"dutch": "creëren",
+		"frequency": 56,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "speak",
+		"dutch": "spreken",
+		"frequency": 57,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "read",
+		"dutch": "lezen",
+		"frequency": 58,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "spend",
+		"dutch": "besteden",
+		"frequency": 59,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "grow",
+		"dutch": "groeien",
+		"frequency": 60,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "open",
+		"dutch": "open",
+		"frequency": 61,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "walk",
+		"dutch": "lopen",
+		"frequency": 62,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "win",
+		"dutch": "winnen",
+		"frequency": 63,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "teach",
+		"dutch": "leren",
+		"frequency": 64,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "offer",
+		"dutch": "aanbod",
+		"frequency": 65,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "remember",
+		"dutch": "onthouden",
+		"frequency": 66,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "consider",
+		"dutch": "overwegen",
+		"frequency": 67,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "appear",
+		"dutch": "verschijnen",
+		"frequency": 68,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "buy",
+		"dutch": "kopen",
+		"frequency": 69,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "serve",
+		"dutch": "dienen",
+		"frequency": 70,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "die",
+		"dutch": "sterven",
+		"frequency": 71,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "send",
+		"dutch": "sturen",
+		"frequency": 72,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "build",
+		"dutch": "bouwen",
+		"frequency": 73,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "stay",
+		"dutch": "blijven",
+		"frequency": 74,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "fall",
+		"dutch": "vallen",
+		"frequency": 75,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "cut",
+		"dutch": "gesneden",
+		"frequency": 76,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "reach",
+		"dutch": "bereiken",
+		"frequency": 77,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "kill",
+		"dutch": "doden",
+		"frequency": 78,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "raise",
+		"dutch": "verhogen",
+		"frequency": 79,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "pass",
+		"dutch": "passeren",
+		"frequency": 80,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "sell",
+		"dutch": "verkopen",
+		"frequency": 81,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "decide",
+		"dutch": "beslissen",
+		"frequency": 82,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "return",
+		"dutch": "terugkeren",
+		"frequency": 83,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "explain",
+		"dutch": "uitleggen",
+		"frequency": 84,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "hope",
+		"dutch": "hopen",
+		"frequency": 85,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "develop",
+		"dutch": "ontwikkelen",
+		"frequency": 86,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "carry",
+		"dutch": "dragen",
+		"frequency": 87,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "break",
+		"dutch": "breken",
+		"frequency": 88,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "receive",
+		"dutch": "ontvangen",
+		"frequency": 89,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "agree",
+		"dutch": "instemmen",
+		"frequency": 90,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "hit",
+		"dutch": "raken",
+		"frequency": 91,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "produce",
+		"dutch": "produceren",
+		"frequency": 92,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "eat",
+		"dutch": "eten",
+		"frequency": 93,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "cover",
+		"dutch": "dekken",
+		"frequency": 94,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "catch",
+		"dutch": "vangen",
+		"frequency": 95,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "draw",
+		"dutch": "trekken",
+		"frequency": 96,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "choose",
+		"dutch": "kiezen",
+		"frequency": 97,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "like",
+		"dutch": "houden van",
+		"frequency": 98,
+		"pronunciation": ""
+	},
+	{
+		"type": "werkwoorden",
+		"english": "love",
+		"dutch": "houden van",
+		"frequency": 99,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "other car",
+		"dutch": "andere auto",
+		"frequency": 1,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "new car",
+		"dutch": "nieuwe auto",
+		"frequency": 2,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "good car",
+		"dutch": "goede auto",
+		"frequency": 3,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "high building",
+		"dutch": "hoog gebouw",
+		"frequency": 4,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "old car",
+		"dutch": "oude auto",
+		"frequency": 5,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "great car",
+		"dutch": "geweldige auto",
+		"frequency": 6,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "big car",
+		"dutch": "grote auto",
+		"frequency": 7,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "American car",
+		"dutch": "Amerikaanse auto",
+		"frequency": 8,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "small car",
+		"dutch": "kleine auto",
+		"frequency": 9,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "large car",
+		"dutch": "grote auto",
+		"frequency": 10,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "national team",
+		"dutch": "nationale ploeg",
+		"frequency": 11,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "different car",
+		"dutch": "verschillende auto",
+		"frequency": 12,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "black car",
+		"dutch": "zwarte auto",
+		"frequency": 13,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "long trip",
+		"dutch": "lange reis",
+		"frequency": 14,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "little car",
+		"dutch": "kleine auto",
+		"frequency": 15,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "important car",
+		"dutch": "belangrijke auto",
+		"frequency": 16,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "bad car",
+		"dutch": "slechte auto",
+		"frequency": 17,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "white car",
+		"dutch": "witte auto",
+		"frequency": 18,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "real person",
+		"dutch": "echte persoon",
+		"frequency": 19,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "best car",
+		"dutch": "beste auto",
+		"frequency": 20,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "social person",
+		"dutch": "sociaal persoon",
+		"frequency": 21,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "only one",
+		"dutch": "slechts een",
+		"frequency": 22,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "public car",
+		"dutch": "openbare parkeerplaats",
+		"frequency": 23,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "low car",
+		"dutch": "lage auto",
+		"frequency": 24,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "human interaction",
+		"dutch": "menselijke interactie",
+		"frequency": 25,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "local station",
+		"dutch": "lokale zender",
+		"frequency": 26,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "late",
+		"dutch": "laat",
+		"frequency": 27,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "hard sand",
+		"dutch": "harde zand",
+		"frequency": 28,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "major car",
+		"dutch": "grote auto",
+		"frequency": 29,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "better car",
+		"dutch": "betere auto",
+		"frequency": 30,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "economic car",
+		"dutch": "economische auto",
+		"frequency": 31,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "strong man",
+		"dutch": "sterke man",
+		"frequency": 32,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "possible solution",
+		"dutch": "mogelijke oplossing",
+		"frequency": 33,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "whole cake",
+		"dutch": "hele taart",
+		"frequency": 34,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "free entrance",
+		"dutch": "gratis entree",
+		"frequency": 35,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "military car",
+		"dutch": "militaire auto",
+		"frequency": 36,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "true",
+		"dutch": "waar",
+		"frequency": 37,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "federal car",
+		"dutch": "federale auto",
+		"frequency": 38,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "international car",
+		"dutch": "internationale auto-",
+		"frequency": 39,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "full car",
+		"dutch": "volledige auto",
+		"frequency": 40,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "special car",
+		"dutch": "speciale auto",
+		"frequency": 41,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "easy",
+		"dutch": "gemakkelijk",
+		"frequency": 42,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "clear water",
+		"dutch": "helder water",
+		"frequency": 43,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "recent document",
+		"dutch": "recent document",
+		"frequency": 44,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "personal computer",
+		"dutch": "pc",
+		"frequency": 45,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "open stadium",
+		"dutch": "open stadion",
+		"frequency": 46,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "red car",
+		"dutch": "rode auto",
+		"frequency": 47,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "difficult excercise",
+		"dutch": "moeilijke oefening",
+		"frequency": 48,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "available position",
+		"dutch": "beschikbare positie",
+		"frequency": 49,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "short car",
+		"dutch": "korte autorit",
+		"frequency": 50,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "single car",
+		"dutch": "enkele auto",
+		"frequency": 51,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "medical company",
+		"dutch": "medisch bedrijf",
+		"frequency": 52,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "current job",
+		"dutch": "huidige baan",
+		"frequency": 53,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "wrong answer",
+		"dutch": "fout antwoord",
+		"frequency": 54,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "private car",
+		"dutch": "eigen auto",
+		"frequency": 55,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "past",
+		"dutch": "verleden",
+		"frequency": 56,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "foreign woman",
+		"dutch": "buitenlandse vrouw",
+		"frequency": 57,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "fine person",
+		"dutch": "fijn persoon",
+		"frequency": 58,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "common cat",
+		"dutch": "gemeenschappelijke kat",
+		"frequency": 59,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "poor dog",
+		"dutch": "arme hond",
+		"frequency": 60,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "natural color",
+		"dutch": "natuurlijke kleur",
+		"frequency": 61,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "significant amount",
+		"dutch": "aanzienlijk bedrag",
+		"frequency": 62,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "similar car",
+		"dutch": "soortgelijke auto",
+		"frequency": 63,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "hot water",
+		"dutch": "warm water",
+		"frequency": 64,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "dead rabbit",
+		"dutch": "dode konijn",
+		"frequency": 65,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "central station",
+		"dutch": "centraal station",
+		"frequency": 66,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "happy birthday",
+		"dutch": "gelukkige verjaardag",
+		"frequency": 67,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "serious person",
+		"dutch": "ernstige persoon",
+		"frequency": 68,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "ready",
+		"dutch": "klaar",
+		"frequency": 69,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "simple table",
+		"dutch": "eenvoudige tabel",
+		"frequency": 70,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "left side",
+		"dutch": "linkerkant",
+		"frequency": 71,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "physical education",
+		"dutch": "lichamelijke opvoeding",
+		"frequency": 72,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "general use",
+		"dutch": "algemeen gebruik",
+		"frequency": 73,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "environmental car",
+		"dutch": "milieu- auto",
+		"frequency": 74,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "financial center",
+		"dutch": "financieel centrum",
+		"frequency": 75,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "blue car",
+		"dutch": "blauwe auto",
+		"frequency": 76,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "democratic country",
+		"dutch": "democratisch land",
+		"frequency": 77,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "dark car",
+		"dutch": "donkere auto",
+		"frequency": 78,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "close location",
+		"dutch": "nauwe locatie",
+		"frequency": 79,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "legal issue",
+		"dutch": "juridische kwestie",
+		"frequency": 80,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "religious person",
+		"dutch": "religieus persoon",
+		"frequency": 81,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "cold water",
+		"dutch": "koud water",
+		"frequency": 82,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "final result",
+		"dutch": "eindresultaat",
+		"frequency": 83,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "main funciton",
+		"dutch": "belangrijkste funciton",
+		"frequency": 84,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "green car",
+		"dutch": "groene auto",
+		"frequency": 85,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "nice person",
+		"dutch": "nice person",
+		"frequency": 86,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "huge truck",
+		"dutch": "enorme truck",
+		"frequency": 87,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "popular programme",
+		"dutch": "populair programma",
+		"frequency": 88,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "traditional person",
+		"dutch": "traditionele persoon",
+		"frequency": 89,
+		"pronunciation": ""
+	},
+	{
+		"type": "adjectieven",
+		"english": "cultural affair",
+		"dutch": "culturele aangelegenheid",
+		"frequency": 90,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "I go to my room",
+		"dutch": "Ik ga naar mijn kamer",
+		"frequency": 1,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "The wheel of your car",
+		"dutch": "Het stuur van je auto",
+		"frequency": 2,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "You put the bread in the oven",
+		"dutch": "Je zet het brood in de oven",
+		"frequency": 3,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "I have something for you",
+		"dutch": "Ik iets voor u",
+		"frequency": 4,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "Leave it on the table",
+		"dutch": "Laat het op de tafel",
+		"frequency": 5,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "I like to be with you",
+		"dutch": "Ik wil bij je zijn",
+		"frequency": 6,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "I am meeting her at 6",
+		"dutch": "Ik ben haar vergadering op 6",
+		"frequency": 7,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "He will come by bike",
+		"dutch": "Hij zal komen met de fiets",
+		"frequency": 8,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "They are from London",
+		"dutch": "Ze komen uit Londen",
+		"frequency": 9,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "He ran up a big hill",
+		"dutch": "Hij liep een grote heuvel",
+		"frequency": 10,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "This book talks about the war",
+		"dutch": "Dit boek vertelt over de oorlog",
+		"frequency": 11,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "He put the butter into the water",
+		"dutch": "Hij zette de boter in het water",
+		"frequency": 12,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "I jumped over the fence",
+		"dutch": "Ik sprong over het hek",
+		"frequency": 13,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "They will come after lunch",
+		"dutch": "Zij zullen na de lunch komen",
+		"frequency": 14,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "Put your feet under the table",
+		"dutch": "Zet je voeten onder de tafel",
+		"frequency": 15,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "The book is above you",
+		"dutch": "Het boek is boven je",
+		"frequency": 16,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "They are giving the bonus next week.",
+		"dutch": "Ze geven de bonus volgende week.",
+		"frequency": 17,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "I am leaving for Salem tomorrow night.",
+		"dutch": "Ik vertrek voor Salem morgenavond.",
+		"frequency": 18,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "They are vacating the house next month.",
+		"dutch": "Ze zijn ontruimen van het huis volgende maand.",
+		"frequency": 19,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "Next week my cousin is coming from Mumbai.",
+		"dutch": "Volgende week mijn neef komt uit Mumbai.",
+		"frequency": 20,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "I have to take her to Kumbakonam.",
+		"dutch": "Ik heb haar naar Kumbakonam.",
+		"frequency": 21,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "My friend Surya is getting married next month.",
+		"dutch": "Mijn vriend Surya gaat trouwen volgende maand.",
+		"frequency": 22,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "I am leaving for Bangalore tonight and I will be back after 10 days.",
+		"dutch": "Ik vertrek voor Bangalore vanavond en ik zal terug na 10 dagen.",
+		"frequency": 23,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "You just wait there. I will come and pick you up.",
+		"dutch": "Wacht daar maar. Ik zal komen en halen u op.",
+		"frequency": 24,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "I will take you there one day.",
+		"dutch": "Ik zal u er een dag.",
+		"frequency": 25,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "I think it will rain today.",
+		"dutch": "Ik denk dat het zal regenen vandaag.",
+		"frequency": 26,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "I hope they will win.",
+		"dutch": "Ik hoop dat ze winnen.",
+		"frequency": 27,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "It is already 8.30. I don't think they will come.",
+		"dutch": "Het is nu al 8.30. Ik denk niet dat ze zullen komen.",
+		"frequency": 28,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "Hereafter I won't go with them.",
+		"dutch": "Hierna ga ik niet met ze.",
+		"frequency": 29,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "They won't mistake me.",
+		"dutch": "Ze zullen me niet verkeerd.",
+		"frequency": 30,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "Nobody will believe that.",
+		"dutch": "Niemand zal geloven dat.",
+		"frequency": 31,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "They will not listen to me.",
+		"dutch": "Ze zullen niet naar me luisteren.",
+		"frequency": 32,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "Will they come here?",
+		"dutch": "Zullen ze hier komen?",
+		"frequency": 33,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "When will they come?",
+		"dutch": "Wanneer zullen ze komen?",
+		"frequency": 34,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "Are they coming here tomorrow?",
+		"dutch": "Komen ze hier morgen?",
+		"frequency": 35,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "What are you going to do?",
+		"dutch": "Wat ga je doen?",
+		"frequency": 36,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "When are you completing the work?",
+		"dutch": "Wanneer bent u het invullen van het werk?",
+		"frequency": 37,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "When are you going to get married?",
+		"dutch": "Wanneer ga je trouwen?",
+		"frequency": 38,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "Are you going with them?",
+		"dutch": "Ga je met hen?",
+		"frequency": 39,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "When are you going to vacate the house?",
+		"dutch": "Wanneer ga je het huis verlaten?",
+		"frequency": 40,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "How long are you going to stay there?",
+		"dutch": "Hoe lang ga je daar blijven?",
+		"frequency": 41,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "What are you going to do next?",
+		"dutch": "Wat ga je nu doen?",
+		"frequency": 42,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "How will you manage?",
+		"dutch": "Hoe gaat u te beheren?",
+		"frequency": 43,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "How are you going to manage?",
+		"dutch": "Hoe ga je te beheren?",
+		"frequency": 44,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "When is the manager returning from Trichy?",
+		"dutch": "Wanneer is de manager terug uit Trichy?",
+		"frequency": 45,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "Will it rain today?",
+		"dutch": "Zal het vandaag regenen?",
+		"frequency": 46,
+		"pronunciation": ""
+	},
+	{
+		"type": "zinnen",
+		"english": "When are you leaving for Madurai?",
+		"dutch": "Wanneer vertrek je voor Madurai?",
+		"frequency": 47,
+		"pronunciation": ""
+	}
+]
